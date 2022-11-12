@@ -1,0 +1,1 @@
+print("Very uj fajl")
